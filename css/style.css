@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* some other things idk */
+}
+
+.scrolling_bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 2px solid black;
+}
+
